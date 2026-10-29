@@ -16,7 +16,7 @@ Sou estudante de Engenharia de Software e Assistente de TI em Manaus (AM), atual
   <img align="center" alt="PyTorch" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
   <img align="center" alt="TensorFlow" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
   <img align="center" alt="Power BI" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
-  <img align="center" alt="Tableau" height="40" width="120" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" />
+  <img align="center" alt="Tableau" height="40" width="150" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" />
   <img align="center" alt="Looker Studio" height="40" width="40" src="https://cdn.simpleicons.org/looker/4285F4" />
 </div>
 
