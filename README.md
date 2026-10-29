@@ -17,7 +17,7 @@ Sou estudante de Engenharia de Software e Assistente de TI em Manaus (AM), atual
   <img align="center" alt="TensorFlow" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
   <img align="center" alt="OpenCV" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" />
   <img align="center" alt="Snowflake" height="40" width="40" src="https://cdn.simpleicons.org/snowflake/29B5E8" />
-  <[img align="center" alt="Power BI" height="40" width="40" src="https://cdn.simpleicons.org/powerbi/F2C811" ](https://imgs.search.brave.com/VP_9fVL8kyi1GFHgrGxogrbvBvH7G6AVK0mND2avEQw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91eHdp/bmcuY29tL3dwLWNv/bnRlbnQvdGhlbWVz/L3V4d2luZy9kb3du/bG9hZC9icmFuZHMt/YW5kLXNvY2lhbC1t/ZWRpYS9wb3dlci1i/aS1pY29uLnBuZw)/>
+  <img align="center" alt="Power BI" height="40" width="40" src="https://cdn.simpleicons.org/powerbi/F2C811" />
   <img align="center" alt="Tableau" height="40" width="40" src="https://cdn.simpleicons.org/tableau/E97627" />
   <img align="center" alt="Looker Studio" height="40" width="40" src="https://cdn.simpleicons.org/looker/4285F4" />
 </div>
