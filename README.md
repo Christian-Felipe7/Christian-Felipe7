@@ -1,28 +1,28 @@
-# Olá, eu sou o Christian Felipe! 👋
+# Fala aí, eu sou Christian Felipe! 👋
 
-Sou estudante de **Engenharia de Software** e atuo como **Assistente de TI** em Manaus, Amazonas. Tenho um forte foco no desenvolvimento de soluções eficientes, integrações de sistemas de ERP e automações utilizando arquiteturas web leves e self-hosted. 
+Sou estudante de Engenharia de Software e atuo como Assistente de TI em Manaus (AM), focado em transformar processos engessados em soluções ágeis com arquiteturas web leves. Atualmente, tenho direcionado meus estudos e projetos para a **área de dados**, tirando certificações pela Alura (Fundamentos e SQL) e trabalhando na prática com cruzamento de informações, extração de relatórios e painéis no Looker Studio, sempre buscando extrair o maior valor possível dos bancos de dados da empresa para facilitar a tomada de decisão.
 
-## 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** Python, SQL, JavaScript, HTML/CSS
-- **Frameworks & Libs:** FastAPI, React, Vite, Node.js, HTMX, Jinja2
-- **Banco de Dados:** Oracle SQL, SQLite
-- **Ambiente & Ferramentas:** Git, WSL2 (Ubuntu), VS Code, DBeaver, WinThor ERP, Uptime Kuma
+## 💻 Tecnologias e Ferramentas
+
+<div style="display: inline_block">
+  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="Oracle" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+  <img align="center" alt="SQLite" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+  <img align="center" alt="FastAPI" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+</div>
+
+<br>
 
 ## 🚀 Projetos em Destaque
-* **Arigó (Agente Autônomo com IA):** Desenvolvimento de um agente interno rodando em servidor Linux local com Python e FastAPI para consultar métricas operacionais, de vendas e estoque via Oracle SQL no WinThor.
-* **App Fullstack de Xadrez:** Aplicação web com backend em Python/FastAPI, banco SQLite e frontend em Vite/React, incluindo renderização interativa do tabuleiro e integração com engines de xadrez.
-* **Consulta Estoque v2:** Aplicação web leve de consulta em tempo real construída com FastAPI e HTMX para operações logísticas, substituindo sistemas legados pesados.
-* **RymoInventory:** Plataforma web interna para rastreamento de ativos de TI, gestão de hardware, geração automática de termos de responsabilidade e coleta de assinaturas digitais.
-* **Automações Logísticas e de Infraestrutura:** Criação de scripts em Python para mapeamento automatizado de hardware (CPU, RAM, MAC/IP) de PCs corporativos e aplicações web para extração de dados em faturas PDF.
 
-## 🎓 Educação e Certificações
-* Bacharelado em **Engenharia de Software** (Em andamento)
-* Certificações em **Fundamentos em Análise de Dados** e **Análise de Dados com SQL** (Alura)
+* 📊 **Dashboard de Field Trial (Looker Studio):** Projeto (fictício) analítico para testes de campo em dispositivos Android, utilizando modelagem de dados, mesclagem de bases sintéticas de telemetria e acompanhamento de métricas de CSAT.
+* 📦 **RymoInventory:** Plataforma interna para rastreamento de ativos de TI e gestão de hardware. Automatiza a geração de termos de responsabilidade e coleta assinaturas digitais.
+* 🔍 **Consulta Estoque (v2):** Aplicação web otimizada para consulta de SKU's. Desenvolvida com Python, FastAPI e HTMX, consome dados em tempo real direto do banco Oracle SQL.
+* 🛒 **Painel Logístico de E-commerce:** Sistema web para gerenciamento e controle do fluxo de separação de pedidos. Desenvolvido com Python, FastAPI e um banco de dados SQLite sidecar otimizado para garantir alta performance e persistência de estado local nas operações de separação de pedidos.
 
-## ⚡ Curiosidades
-* Sou instrutor particular de inglês (nível fluente) e tenho nível intermediário em francês.
-* Nas horas vagas, estudo cálculo e visualização tática no xadrez, treino Muay Thai e acompanho clássicos de ação/aventura nos games.
+## 📫 Contato e Redes
 
-## 📫 Como me encontrar
-* **LinkedIn:** [linkedin.com/in/christian-felipe-souza](https://linkedin.com/in/christian-felipe-souza)
+* **LinkedIn:** [Christian Felipe](https://linkedin.com/in/christian-felipe-souza)
 * **E-mail:** [felipechris50@gmail.com](mailto:felipechris50@gmail.com)
