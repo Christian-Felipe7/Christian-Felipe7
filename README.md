@@ -10,12 +10,13 @@ Sou estudante de Engenharia de Software e Assistente de TI em Manaus (AM), atual
   <img align="center" alt="Snowflake" height="40" width="40" src="https://cdn.simpleicons.org/snowflake/29B5E8" />
   <img align="center" alt="SQLite" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
   <img align="center" alt="FastAPI" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+  <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
   <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="Pandas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
   <img align="center" alt="PyTorch" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
   <img align="center" alt="TensorFlow" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
   <img align="center" alt="Power BI" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
-  <img align="center" alt="Tableau" height="40" width="100" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" />
+  <img align="center" alt="Tableau" height="40" width="120" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" />
   <img align="center" alt="Looker Studio" height="40" width="40" src="https://cdn.simpleicons.org/looker/4285F4" />
 </div>
 
