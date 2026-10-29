@@ -1,6 +1,6 @@
 # Prazer, eu sou Christian Felipe! 👋
 
-Sou estudante de Engenharia de Software e Assistente de TI em Manaus (AM), atualmente em transição para a área de Dados. No ambiente corporativo, possuo experiência prática na estruturação de processos de ETL, modelagem e otimização de queries em Oracle SQL, atuando na manipulação de dados transacionais complexos de sistemas ERP e geração de relatórios para a alta gestão. Em paralelo, desenvolvo projetos analíticos práticos, como a criação de dashboards no Looker Studio para testes de campo (Field Trials) com mesclagem de bases sintéticas de telemetria, unindo minha vivência em desenvolvimento de software com a engenharia e análise de dados.
+Sou estudante de Engenharia de Software e Assistente de TI em Manaus (AM), atualmente em transição para a área de Dados. No ambiente corporativo, possuo experiência prática na estruturação de processos de ETL, modelagem e otimização de queries em Oracle SQL, atuando na manipulação de dados transacionais complexos de sistemas ERP e geração de relatórios para a alta gestão. Em paralelo, desenvolvo projetos analíticos práticos, unindo minha vivência na área de tecnologia da informação com a engenharia e análise de dados.
 
 ## 💻 Tecnologias e Ferramentas
 
