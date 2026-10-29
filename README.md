@@ -24,5 +24,5 @@ Sou estudante de **Engenharia de Software** e atuo como **Assistente de TI** em 
 * Nas horas vagas, estudo cálculo e visualização tática no xadrez, treino Muay Thai e acompanho clássicos de ação/aventura nos games.
 
 ## 📫 Como me encontrar
-* **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+* **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/christian-felipe-souza)
 * **E-mail:** [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
