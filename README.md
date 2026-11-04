@@ -22,7 +22,7 @@ Sou estudante de Engenharia de Software e Assistente de TI em Manaus (AM), atual
 
 ## 🚀 Projetos em Destaque
 
-* 📊 **Dashboard de Monitoramento de Testes (Google Looker Studio):** Projeto fictício de análise de dados de testes em dispositivos Android, utilizando modelagem de dados, mesclagem entre tabelas e geração de um dashboard interativo.
+* 📊 **Dashboard de Monitoramento de Testes Android (Google Looker Studio):** Projeto fictício de análise de dados de testes em dispositivos Android, utilizando modelagem de dados, mesclagem entre tabelas e geração de um dashboard interativo.
 * 📦 **RymoInventory:** Plataforma interna para rastreamento de ativos de TI e gestão de hardware. Automatiza a geração de termos de responsabilidade e coleta assinaturas digitais.
 * 🔍 **Consulta Estoque (v2):** Aplicação web otimizada para consulta de SKU's. Desenvolvida com Python, FastAPI e HTMX, consome dados em tempo real direto do banco Oracle SQL.
 * 🛒 **Painel Logístico de E-commerce:** Sistema web para gerenciamento e controle do fluxo de separação de pedidos. Desenvolvido com Python, FastAPI e um banco de dados SQLite sidecar otimizado para garantir alta performance e persistência de estado local nas operações de separação de pedidos.
